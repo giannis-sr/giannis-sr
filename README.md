@@ -16,6 +16,6 @@ C# WPF APP<br>C# XAMARIN MOBILE APP<br>C# UWP <br> Python <br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![]//(https://visitcount.itsvg.in/api?id=giannis-sr&icon=0&color=0)](https://visitcount.itsvg.in)
+<!--[![](https://visitcount.itsvg.in/api?id=giannis-sr&icon=0&color=0)](https://visitcount.itsvg.in)-->
 
 <!-- -->
