@@ -1,5 +1,5 @@
 # 💫 About Me:
-C# WPF APP(DailyReportApi)<br>C# XAMARIN MOBILE APP<br>C# UWP <br>
+C# WPF APP<br>C# XAMARIN MOBILE APP<br>C# UWP <br> Python <br>
 
 
 # 💻 Tech Stack:
