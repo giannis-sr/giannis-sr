@@ -12,8 +12,8 @@ C# WPF APP<br>C# XAMARIN MOBILE APP<br>C# UWP <br> Python <br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=giannis-sr&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!--### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)-->
 
 ---
 <!--[![](https://visitcount.itsvg.in/api?id=giannis-sr&icon=0&color=0)](https://visitcount.itsvg.in)-->
